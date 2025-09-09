@@ -1,4 +1,4 @@
-# Mobile-Sales-Data-Dashboard
+# Mobile Sales Data Analysis Dashboard
 **1. Practice Files & Projects**
 
 A dynamic, interactive Power BI dashboard built to explore mobile sales data across regions, brands, and time periods—helping users uncover patterns, track performance, and make data-driven decisions.
